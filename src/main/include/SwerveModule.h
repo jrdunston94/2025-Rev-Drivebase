@@ -11,7 +11,7 @@ public:
   SwerveModule(int Driveid,int Turnid);
 
 void SetState(double angle,double speed);
-double GetState(int  )
+double GetState(int  );
 
 
 private:
